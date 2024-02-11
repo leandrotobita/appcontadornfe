@@ -5,6 +5,8 @@
 
 O Contador de Produtos XML é um aplicativo que permite calcular a soma da coluna qCom de um arquivo XML de Nota Fiscal Eletrônica (NF-e).
 
+Este contador foi elaborado para solucionar a questão decorrente da chegada de mercadorias em lojas com múltiplos volumes. Em certos casos, notas de grandes volumes não apresentavam o campo de quantidade total, o que demandava a contagem individual das linhas para verificar as caixas.
+
 ## Tecnologias Usadas
 
 - **Python**: Linguagem de programação utilizada para desenvolver o aplicativo.
