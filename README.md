@@ -41,4 +41,5 @@ pip install Pillow
 python contador_nfe.py
 
 
+<img src="tela.jpg" alt="Tela Inicial" >
 
